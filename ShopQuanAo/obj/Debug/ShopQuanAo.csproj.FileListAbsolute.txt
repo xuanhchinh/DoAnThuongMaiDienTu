@@ -1,0 +1,321 @@
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\ShopQuanAo.dll.config
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\ShopQuanAo.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\ShopQuanAo.pdb
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\csc.exe
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\csc.exe.config
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\csc.rsp
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\csi.exe
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\csi.exe.config
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\csi.rsp
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.AppContext.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Collections.Immutable.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Console.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.IO.Compression.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.IO.FileSystem.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.IO.Pipes.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Reflection.Metadata.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Security.AccessControl.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Security.Claims.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.ValueTuple.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Xml.XPath.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\vbc.exe
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\vbc.exe.config
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\vbc.rsp
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\VBCSCompiler.exe
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\roslyn\VBCSCompiler.exe.config
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\EntityFramework.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\EntityFramework.SqlServer.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\Microsoft.Web.Infrastructure.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\PagedList.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\PagedList.Mvc.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\System.Web.Helpers.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\System.Web.Mvc.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\System.Web.Razor.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\System.Web.Webpages.Deployment.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\System.Web.Webpages.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\System.Web.Webpages.Razor.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\EntityFramework.xml
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\EntityFramework.SqlServer.xml
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\PagedList.xml
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\PagedList.Mvc.xml
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\System.Web.Razor.xml
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\System.Web.Webpages.xml
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\System.Web.Webpages.Deployment.xml
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\System.Web.Webpages.Razor.xml
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\System.Web.Helpers.xml
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\System.Web.Mvc.xml
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CoreCompileInputs.cache
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CopyComplete
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+D:\LAP TRINH\NguyenVanHung_2117110236\ShopQuanAo\obj\Debug\ShopQuanAo.csprojAssemblyReference.cache
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.csprojAssemblyReference.cache
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\ShopQuanAo.dll.config
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\ShopQuanAo.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\ShopQuanAo.pdb
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\csc.exe
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\csc.exe.config
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\csc.rsp
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\csi.exe
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\csi.exe.config
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\csi.rsp
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.AppContext.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Console.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\vbc.exe
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\vbc.exe.config
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\vbc.rsp
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\EntityFramework.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\EntityFramework.SqlServer.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\log4net.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\Newtonsoft.Json.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\PagedList.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\PagedList.Mvc.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Helpers.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Mvc.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Razor.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.Razor.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\EntityFramework.xml
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\EntityFramework.SqlServer.xml
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\log4net.xml
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\PagedList.xml
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\PagedList.Mvc.xml
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Razor.xml
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.xml
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.Razor.xml
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Helpers.xml
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Mvc.xml
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CopyComplete
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+C:\Users\Du\Desktop\RM1\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\ShopQuanAo.dll.config
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\ShopQuanAo.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\ShopQuanAo.pdb
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\log4net.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\PagedList.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\log4net.xml
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\PagedList.xml
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CopyComplete
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\Facebook.dll
+C:\Users\Admin\Desktop\Năm 4\Thuong mai dien tu\ShopQuanAo1\ShopQuanAo\bin\Facebook.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\ShopQuanAo.dll.config
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\ShopQuanAo.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\ShopQuanAo.pdb
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\csc.exe
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\csc.exe.config
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\csc.rsp
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\csi.exe
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\csi.exe.config
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\csi.rsp
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.AppContext.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Collections.Immutable.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Console.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.Compression.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.FileSystem.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.IO.Pipes.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Reflection.Metadata.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.AccessControl.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Claims.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.ValueTuple.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Xml.XPath.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\vbc.exe
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\vbc.exe.config
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\vbc.rsp
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\VBCSCompiler.exe
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\roslyn\VBCSCompiler.exe.config
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\EntityFramework.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\EntityFramework.SqlServer.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\Facebook.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\log4net.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\Microsoft.Web.Infrastructure.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\Newtonsoft.Json.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\PagedList.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\PagedList.Mvc.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Helpers.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Mvc.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Razor.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.Deployment.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.Razor.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\EntityFramework.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\EntityFramework.SqlServer.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\Facebook.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\log4net.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\PagedList.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\PagedList.Mvc.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Razor.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.Deployment.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Webpages.Razor.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Helpers.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\System.Web.Mvc.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.csprojAssemblyReference.cache
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CoreCompileInputs.cache
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CopyComplete
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+D:\ShopQuanAo1\ShopQuanAo1\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
